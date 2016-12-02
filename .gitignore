@@ -8,3 +8,11 @@ Makefile
 /stamp-h1
 
 .deps
+.libs
+
+*.o
+*.lo
+*.la
+
+/gen_client/gen_client
+/net_server/src/net_server
