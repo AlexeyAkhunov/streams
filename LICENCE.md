@@ -1,3 +1,5 @@
+Copyright (c) 2016, ledgerwatch
+
 Copyright (c) 2004, Stanford University Database Group
 All rights reserved.
 
